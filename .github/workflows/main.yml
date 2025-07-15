@@ -18,4 +18,4 @@ jobs:
         server: ftp.milanorestaurant.com.pk
         username: pos@pos.milanorestaurant.com.pk
         password: puYwmw$lRro2
-        server-dir: /public_html/pos.milanorestaurant.com.pk/
+        
